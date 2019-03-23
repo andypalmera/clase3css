@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>cuentos para chica y chicos</head>
+<style>
+body{
+    color: rojo
+}
+</style>
+<body>
+    <h1>queridos cuentos </h1>
+    <h2>Cuentos para chicas y chicos</h2>
+
+</body>
+</html>
